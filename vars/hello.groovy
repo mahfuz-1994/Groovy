@@ -3,9 +3,8 @@ def Call(name){
 }
 
 def API(){
-    def data_body=""" {
-        "name"="MAHFUZ"
-        "job"="CLOVER DEVOPS"
-        
-    }"""
+    def data_Body="""{
+                        "name":"MAHFUZ"
+                        "job":"CLOVER DEVOPS"
+                     }"""
 }
